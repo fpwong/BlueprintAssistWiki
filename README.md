@@ -1,1 +1,5 @@
-Nothing to see here! Click on the wiki tab: https://github.com/fpwong/BlueprintAssistWiki/wiki
+This repo is for submitting issues for the Blueprint Assist plugin.
+
+---
+
+For BlueprintAssist documentation head over to: https://blueprintassist.github.io/
