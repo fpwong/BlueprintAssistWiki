@@ -1,4 +1,4 @@
-This repo is for submitting issues for the Blueprint Assist plugin.
+This repo is for submitting issues for the Blueprint Assist plugin and tracking when new updates are released
 
 ---
 
